@@ -1,0 +1,7 @@
+<svg data-name="04-基础对话框/关闭按钮" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <rect data-name="사각형 278" width="16" height="16" rx="3" style="fill:#dcdcdc"/>
+    <g data-name="1.Bace基础/3.Icon图标/操作/close">
+        <path d="M16 0v16H0V0z" style="fill:none;opacity:.6"/>
+        <path data-name="Vector (Stroke)" d="M0 .919.919 0 4 3.076 7.071 0l.919.919L4.914 4 7.99 7.071l-.919.919L4 4.914.919 7.99 0 7.071 3.076 4z" transform="translate(4.005 4.005)" style="fill:rgba(0,0,0,.6)"/>
+    </g>
+</svg>
